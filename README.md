@@ -47,9 +47,8 @@ A simple command-line Python application built using object-oriented programming
 ### Tips  
 - Run program multiple times to simulate user experience.  
 - Carefully input invalid data deliberately to test error handling robustness.
-<img width="1919" height="1018" alt="Screenshot 2026-03-29 224356" src="https://github.com/user-attachments/assets/ddaf9931-7f0e-4a66-8d4f-f29547569fad" />
-<img width="1919" height="1016" alt="Screenshot 2026-03-29 224329" src="https://github.com/user-attachments/assets/67b0a045-8533-4a21-a423-3c12ae9436c3" />
-<img width="1919" height="1020" alt="Screenshot 2026-03-29 224115" src="https://github.com/user-attachments/assets/6ec23910-2f64-4d97-9063-09bb2d106f41" />
-<img width="1919" height="1020" alt="Screenshot 2026-03-29 223925" src="https://github.com/user-attachments/assets/68f2e386-704b-4b26-b4ae-0fda051543fd" />
 <img width="1919" height="1021" alt="Screenshot 2026-03-29 223757" src="https://github.com/user-attachments/assets/5c5a6e6d-5d57-4dcd-b6f2-03796cb27b4d" />
-
+<img width="1919" height="1020" alt="Screenshot 2026-03-29 223925" src="https://github.com/user-attachments/assets/68f2e386-704b-4b26-b4ae-0fda051543fd" />
+<img width="1919" height="1020" alt="Screenshot 2026-03-29 224115" src="https://github.com/user-attachments/assets/6ec23910-2f64-4d97-9063-09bb2d106f41" />
+<img width="1919" height="1016" alt="Screenshot 2026-03-29 224329" src="https://github.com/user-attachments/assets/67b0a045-8533-4a21-a423-3c12ae9436c3" />
+<img width="1919" height="1018" alt="Screenshot 2026-03-29 224356" src="https://github.com/user-attachments/assets/ddaf9931-7f0e-4a66-8d4f-f29547569fad" />
